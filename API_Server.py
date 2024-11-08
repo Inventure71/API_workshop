@@ -1,4 +1,3 @@
-# dad_jokes_api.py
 from flask import Flask, jsonify, request
 import random
 
